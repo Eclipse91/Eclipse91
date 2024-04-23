@@ -1,6 +1,7 @@
-
 <h2 align="center">About Me</h2>
 I'm a passionate developer in love with Linux and the concept of open source. I try my best to constantly explore new technologies and tools to expand my skills.
+  <!--
+  -->
 
 <h2 align="center">Languages</h2>
   <h3 align="center">Advanced (5+ years)</h3>
@@ -29,15 +30,13 @@ I'm a passionate developer in love with Linux and the concept of open source. I 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
     </p>
-    
-    
   <!--
       <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/> </a>
       <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="C++" width="40" height="40"/> </a>
       <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> </a>
       <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/> </a>
   -->
-    
+
 <h2 align="center">Overview</h2>
 <p align="center">
   <!--
@@ -46,8 +45,6 @@ I'm a passionate developer in love with Linux and the concept of open source. I 
   -->
   <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipse91&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
 </p>
-
-
 <!--
 <table>
     <tr>
@@ -103,6 +100,8 @@ I'm a passionate developer in love with Linux and the concept of open source. I 
         <td width="50%">Reference issues and collaborators in commits.  Open files on GitHub in the browser, with lines pre-selected.  Create pull requests.  Fork a repository.</td>
     </tr>
 </table>
+-->
+<!--
 ### Hi there 👋
 **Eclipse91/Eclipse91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
