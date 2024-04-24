@@ -41,13 +41,30 @@ I'm a passionate developer in love with Linux and the concept of open source. I 
   -->
 
 <h2 align="center">Overview</h2>
-<p align="center">
-  <!--
-  <img class="output" src="https://github-readme-stats.vercel.app/api?username=Eclipse91&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
-  <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=Eclipse91&amp;theme=dark&amp;hide_border=true" alt="github streak">
-  -->
-  <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipse91&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;layout=donut" alt="github top languages">
-</p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Eclipse91&label=Profile%20views&color=0e75b6&style=flat" alt="Eclipse91" />
+  </p>
+  <p align="center">
+    <!--
+    <img class="output" src="https://github-readme-stats.vercel.app/api?username=Eclipse91&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
+    <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=Eclipse91&amp;theme=dark&amp;hide_border=true" alt="github streak">
+    -->
+    <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipse91&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;layout=donut" alt="github top languages">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eclipse91&theme=darkhub" alt="Eclipse91" /></a>
+    <!--
+    <img src="https://github-profile-trophy.vercel.app/?username=Eclipse91&theme=gruvbox" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Eclipse91&theme=onedark" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Eclipse91&theme=darkhub" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Eclipse91&theme=algolia" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Eclipse91&theme=solarized" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Eclipse91&theme=merko" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Eclipse91&theme=cobalt" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Eclipse91&theme=vue" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Eclipse91&theme=calm" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Eclipse91&theme=flag-india" alt="GitHub Profile Trophy" />
+    -->
+  </p>
+
 
 <!--
 <table>
