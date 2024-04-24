@@ -3,7 +3,7 @@ I'm a passionate developer in love with Linux and the concept of open source. I 
   <!--
   -->
 
-<h2 align="center">Languages</h2>
+<h2 align="center">Languages and Tools</h2>
   <h3 align="center">Advanced (5+ years)</h3>
     <p align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -29,6 +29,7 @@ I'm a passionate developer in love with Linux and the concept of open source. I 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="MATLAB" width="40" height="40"/>
     </p>
   <!--
       <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/> </a>
@@ -43,8 +44,9 @@ I'm a passionate developer in love with Linux and the concept of open source. I 
   <img class="output" src="https://github-readme-stats.vercel.app/api?username=Eclipse91&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
   <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=Eclipse91&amp;theme=dark&amp;hide_border=true" alt="github streak">
   -->
-  <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipse91&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
+  <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipse91&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;layout=donut" alt="github top languages">
 </p>
+
 <!--
 <table>
     <tr>
@@ -68,7 +70,6 @@ I'm a passionate developer in love with Linux and the concept of open source. I 
         <td width="50%">View and manipulate local and remote tags.</td>
     </tr>
 </table>
-
 <table>
     <tr>
         <th>Diff</th>
@@ -101,6 +102,7 @@ I'm a passionate developer in love with Linux and the concept of open source. I 
     </tr>
 </table>
 -->
+
 <!--
 ### Hi there 👋
 **Eclipse91/Eclipse91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
