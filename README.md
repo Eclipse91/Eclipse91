@@ -1,5 +1,7 @@
 <h2 align="center">About Me</h2>
-I'm a passionate developer in love with Linux and the concept of open source. I try my best to constantly explore new technologies and tools to expand my skills.
+    <p align="center">
+I'm a passionate developer in love with Linux and the concept of open source. I try my best to constantly explore new technologies and tools to expand my skills.    
+    </p>
   <!--
   -->
 
