@@ -54,6 +54,7 @@ I'm a passionate developer in love with Linux and the concept of open source. I 
     <!--
     <img class="output" src="https://github-readme-stats.vercel.app/api?username=Eclipse91&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
     <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=Eclipse91&amp;theme=dark&amp;hide_border=true" alt="github streak">
+    <img class="output" src="https://github-profile-trophy.vercel.app/?username=Eclipse91&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="github top languages">
     -->
     <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipse91&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;layout=donut" alt="github top languages">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eclipse91&theme=darkhub" alt="Eclipse91" /></a>
